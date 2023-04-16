@@ -8,3 +8,6 @@ Current text-based diagrams include:
 - The SpiderMonkey Engine
 - Pass-By-Value vs Pass-By-Reference
 - Concurrency and Parallelism
+
+If you would like to download and use these diagrams in your own text editor,
+ a monospace typeface will be needed.
