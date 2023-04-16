@@ -10,4 +10,4 @@ Current text-based diagrams include:
 - Concurrency and Parallelism
 
 If you would like to download and use these diagrams in your own text editor,
- a monospace typeface will be needed.
+ a monospaced font will be needed.
