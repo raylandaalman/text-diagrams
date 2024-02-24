@@ -1,4 +1,4 @@
-# javascript-diagrams
+# text-diagrams
 ## A simple text file that uses UTF characters to make graphical diagrams
 
 Current text-based diagrams include:
