@@ -8,6 +8,13 @@ Current text-based diagrams include:
 - The SpiderMonkey Engine
 - Pass-By-Value vs Pass-By-Reference
 - Concurrency and Parallelism
+- Critical Render Path
+- Cookie Based Authentication
+- Modern Token-Based Authentication
+- Generic Tree Data Structure
+- Perfect Binary Tree Data Structure
+- Full Binary Tree Data Structure
+- Java Stack Memory Management
 
 If you would like to download and use these diagrams in your own text editor,
  a monospaced font will be needed.
