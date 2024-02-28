@@ -4,6 +4,7 @@
 Current text-based diagrams include:
 - JavaScript Run-Time Environment
 - Node.js Run-Time Environment
+- Node.js Components
 - The V8 Engine
 - The SpiderMonkey Engine
 - Pass-By-Value vs Pass-By-Reference
