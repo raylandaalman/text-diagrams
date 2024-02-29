@@ -132,6 +132,12 @@ Node.js Components
 libuv multi-threading
 -------------------------
 
+Asynchronous I/O will prioritize sending their operations to
+ the OS kernel.
+
+If the OS kernel is not able to accept the operations, then the
+ thread pool will be used as a backup.
+
 ┌────────────────────────────────────────────────────────────────┐
 │libuv                          OS            ┌─────────────────┐│
 │        EVENT LOOP      ┌──────────────┐     │Asynchronous I/O ││
